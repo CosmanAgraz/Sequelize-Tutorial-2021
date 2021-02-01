@@ -12,7 +12,7 @@ Using the JS ORM Sequelzie to create a database, tables, relationships between t
 This module handles routing.  In other words, it specifies endpoints for GET, POST, PUT, PATCH, DELETE, etc requests.
 
 ## Consign
-This module handles importing modules automatically from a specified directory.
+This module handles importing modules automatically from a specified directory.  This is not really necessary, but it makes importing modules much less of a headache.
 
 ## Sqlite3
 Local storage database.  Great for local development, prototyping, but also a viable alternative to small projects without the need to spend $10/mo for a dedicated database or a VM.  Sqlite3 has problems installing in Node v14.  Make sure you update npm.  If the issue presists, downgrade node version, or run: `npm install node-gyp -g node-gyp` and build from source using: `npm install --build-from-source`.  Things will probably change in the future like all Javascript libs, so good luck :')
