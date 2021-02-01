@@ -1,0 +1,17 @@
+{
+  "development": {
+    "database": "tasks",
+    "dialect": "sqlite",
+    "storage": "tasks-db.sqlite"
+  },
+  "test": {
+    "database": "tasks",
+    "dialect": "sqlite",
+    "storage": "tasks-db.sqlite"
+  },
+  "production": {
+    "database": "tasks",
+    "dialect": "sqlite",
+    "storage": "tasks-db.sqlite"
+  }
+}
