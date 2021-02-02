@@ -25,6 +25,6 @@ ORM used to specify/define the database schema, and handle migrations.  It has a
 ## Sequelize-cli
 Used to initialize database (if it doesn not exist) and establish a server-to-database connection.  See usage here: https://www.npmjs.com/package/sequelize-cli
 
-#Author's notes
+# Author's notes
 
 Folder structure credit goes to FaztWeb.  Original repo here: https://github.com/FaztWeb/nodejs-sequelize-rest-api
