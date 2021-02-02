@@ -1,11 +1,9 @@
 # Sequelize-Tutorial-2021
 Using the JS ORM Sequelize to create a database, tables, relationships between tables, and inserting records.
 
-# How to use
-- Download NodeJS, and get npm (node package manager) working on your command line.
-- clone repo
-- run: `npm install`
-- run: `npm start` (make sure nodemon is installed)
+# NPM Scripts
+- Install dependencies: `npm install`
+- Run instance (uses nodemon): `npm start`
 
 # Dependencies
 
