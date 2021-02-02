@@ -5,6 +5,7 @@ Using the JS ORM Sequelize to create a database, tables, relationships between t
 - Download NodeJS, and get npm (node package manager) working on your command line.
 - clone repo
 - run: `npm install`
+- run: `npm start` (make sure nodemon is installed)
 
 # Dependencies
 
