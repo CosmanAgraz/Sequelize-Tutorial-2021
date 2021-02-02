@@ -1,3 +1,5 @@
+"use strict";
+
 module.exports = app => 
 {
     const Users = app.models.index.Users;

@@ -1,4 +1,5 @@
-'use strict';
+"use strict";
+
 module.exports = app =>
 {
     app.models.index.sequelize.sync().then( () => 
